@@ -28,9 +28,13 @@
 </p>
 <summary>Languages and Tools</summary>
 <p align="center">
-<a href="https://reactjs.org/" target="_blank"> 
+<a href="https://www.mongodb.com/cloud/atlas/lp/try2-in?utm_source=google&utm_campaign=gs_apac_india_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624347" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="react" width="40" height="40"/> 
+</a>
+    <a href="https://reactnative.dev/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a>
 </p>
+
 
 
