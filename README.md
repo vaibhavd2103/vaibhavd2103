@@ -8,10 +8,10 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavd2103&repo=github-readme-stats)](https://github.com/vaibhavd2103/github-readme-stats) -->
 
-<p align="center"> 
+
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavd2103&show_icons=true&theme=synthwave)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd2103&layout=compact&theme=synthwave)](https://github.com/vaibhavd2103/github-readme-stats)
-
+<p align="center"> 
 
 <a href="https://instagram.com/vaibhavd2103" target="blank">
     <img align="center" src="svgs/instagram.svg" alt="vaibhavd2103" height="30" width="40" />
