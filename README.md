@@ -6,4 +6,5 @@
 - 📫 How to reach me: @vaibhavd2103, 7038161505, bountydange@gmail.com
 - ⚡ Fun fact: Once you know me, our bonding gets strong.
 
-[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavd2103)](https://github.com/vaibhaavd2103/github-readme-stats)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavd2103&show_icons=true&theme=tokyonight)
+
