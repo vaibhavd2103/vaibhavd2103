@@ -18,9 +18,9 @@ Hi there 👋
 <!-- ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavd2103&show_icons=true&theme=synthwave)        -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavd2103&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Vaibhav" /></p>
 
+<hr/>
 
 <h3 align="center">Connect with me over at</h3>
-
 
 <p align="center"> 
 <a href="https://twitter.com/vaibhavd2103" target="blank">
@@ -33,7 +33,11 @@ Hi there 👋
     <img align="center" src="svgs/linkedin.svg" alt="vaibhavdange" height="30" width="40" />
 </a>
 </p>
+
+<hr/>
+
 <h3 align="center">Languages and tools</h3>
+
 <p align="center">
 <a href="https://www.mongodb.com/cloud/atlas/lp/try2-in?utm_source=google&utm_campaign=gs_apac_india_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624347" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="react" width="40" height="40"/> 
