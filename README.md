@@ -22,7 +22,11 @@
     <img align="center" src="svgs/linkedin.svg" alt="vaibhavdange" height="30" width="40" />
 </a>
 </p>
-
-
+<summary>Languages and Tools</summary>
+<p align="center">
+<a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</a>
+</p>
 
 
