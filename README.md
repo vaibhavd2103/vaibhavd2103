@@ -11,6 +11,10 @@
 
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavd2103&show_icons=true&theme=synthwave)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd2103&layout=compact&theme=synthwave)](https://github.com/vaibhavd2103/github-readme-stats)
+
+<h3 align="center">Connect with me over at</h3>
+
+
 <p align="center"> 
 <a href="https://twitter.com/vaibhavd2103" target="blank">
     <img align="center" src="svgs/twitter.svg" alt="vaibhavd2103" height="30" width="40" />
