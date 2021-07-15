@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a>
 <a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="react" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a>
 <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="react" width="40" height="40"/> 
@@ -69,6 +69,9 @@
 </a>
 <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+</a>
+<a href="https://www.adobe.com/in/products/xd.html" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="django" width="40" height="40"/> 
 </a>
 </p>
 
