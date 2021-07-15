@@ -8,3 +8,6 @@
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavd2103&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd2103&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
