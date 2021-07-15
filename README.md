@@ -9,8 +9,11 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavd2103&repo=github-readme-stats)](https://github.com/vaibhavd2103/github-readme-stats) -->
 
 
-
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavd2103&show_icons=true&theme=synthwave)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd2103&layout=compact&theme=synthwave)](https://github.com/vaibhavd2103/github-readme-stats)
+<p align="center">
+<img src = "https://github-readme-stats.vercel.app/api?username=vaibhavd2103&show_icons=true&theme=synthwave"
+</p>
+<!-- ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavd2103&show_icons=true&theme=synthwave)        -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd2103&layout=compact&theme=synthwave)](https://github.com/vaibhavd2103/github-readme-stats)
 
 <h3 align="center">Connect with me over at</h3>
 
