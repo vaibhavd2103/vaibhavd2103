@@ -6,7 +6,7 @@
 - 📫 How to reach me: @vaibhavd2103, 7038161505, bountydange@gmail.com
 - ⚡ Fun fact: Once you know me, our bonding gets strong.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavd2103&repo=github-readme-stats)](https://github.com/vaibhavd2103/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavd2103&repo=github-readme-stats)](https://github.com/vaibhavd2103/github-readme-stats) -->
 
 
 
