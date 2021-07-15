@@ -13,9 +13,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=vaibhavd2103&show_icons=true&theme=synthwave"/>
 </p>
 <!-- ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavd2103&show_icons=true&theme=synthwave)        -->
-<p align="center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd2103&layout=compact&theme=synthwave)](https://github.com/vaibhavd2103/github-readme-stats"/>
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavd2103&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Vaibhav" /></p>
 
 
 <h3 align="center">Connect with me over at</h3>
