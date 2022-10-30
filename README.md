@@ -3,11 +3,11 @@ Hi there 👋
 </h1>
 
 
-- 🔭 I’m currently working in Oviyum Technologies as a React-Native front-end developer.
+- 🔭 I’m currently working in DWebBox as a React-Native front-end developer and have a 2 yrs experience with 4 different companies.
 - 🌱 I’m currently learning MERN Stack with React-Native as well as React.js.
-- 👯 I’m looking to collaborate on Mobile app development.
+- 👯 I’m looking to collaborate on Mobile app and web-app development.
 - 📫 How to reach me: @vaibhavd2103, 7038161505, bountydange@gmail.com
-- ⚡ Fun fact: Once you know me, our bonding gets strong.
+- ⚡ Fun fact: Once you know me, you won't leave me.
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavd2103&repo=github-readme-stats)](https://github.com/vaibhavd2103/github-readme-stats) -->
 
