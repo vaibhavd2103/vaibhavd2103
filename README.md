@@ -3,10 +3,10 @@ Hi there 👋
 </h1>
 
 
-- 🔭 I’m currently working in DWebBox as a React-Native front-end developer and have a 2 yrs experience with 4 different companies.
-- 🌱 I’m currently learning MERN Stack with React-Native as well as React.js.
+- 🔭 I’m currently pursuing M.Sc at Universtiy of Stuttgart.
+- 🌱 I’m a full stack developer with both web and native applications.
 - 👯 I’m looking to collaborate on Mobile app and web-app development.
-- 📫 How to reach me: @vaibhavd2103, 7038161505, bountydange@gmail.com
+- 📫 How to reach me: @vaibhavd2103, +917038161505, dangevaibhav21@gmail.com
 - ⚡ Fun fact: Once you know me, you won't leave me.
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavd2103&repo=github-readme-stats)](https://github.com/vaibhavd2103/github-readme-stats) -->
