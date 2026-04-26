@@ -4,10 +4,10 @@ Hi there 👋
 
 
 - 🔭 I’m currently pursuing M.Sc at Universtiy of Stuttgart.
-- 🌱 I’m a full stack developer with both web and native applications.
-- 👯 I’m looking to collaborate on Mobile app and web-app development.
-- 📫 How to reach me: @vaibhavd2103, +917038161505, dangevaibhav21@gmail.com
-- ⚡ Fun fact: Once you know me, you won't leave me.
+- 🌱 I’m a full stack developer for both web and native applications.
+- 👯 I’m looking to collaborate on bringing ideas to reality.
+- 📫 How to reach me: +917038161505, dangevaibhav21@gmail.com, +4915560172169
+- ⚡ Fun fact: I can write code.
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavd2103&repo=github-readme-stats)](https://github.com/vaibhavd2103/github-readme-stats) -->
 
