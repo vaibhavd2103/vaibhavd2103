@@ -54,6 +54,7 @@
   <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" alt="Cloudflare" width="48" height="48" />
 </p>
 
 <p align="center"><b>Tools</b></p>
@@ -62,6 +63,7 @@
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" alt="Android Studio" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="48" height="48" />
 </p>
 
 <hr/>
