@@ -61,6 +61,7 @@
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" alt="Android Studio" width="48" height="48" />
 </p>
 
 <hr/>
