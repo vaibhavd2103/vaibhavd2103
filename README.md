@@ -1,97 +1,68 @@
-<h1 align= "center">
-Hi there 👋
-</h1>
+<h1 align="center">Hi there, I'm Vaibhav 👋</h1>
+<h3 align="center">Full-Stack Developer • M.Sc. Computer Science @ University of Stuttgart</h3>
 
-
-- 🔭 I’m currently pursuing M.Sc at Universtiy of Stuttgart.
-- 🌱 I’m a full stack developer for both web and native applications.
-- 👯 I’m looking to collaborate on bringing ideas to reality.
-- 📫 How to reach me: +917038161505, dangevaibhav21@gmail.com, +4915560172169
-- ⚡ Fun fact: I can write code.
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavd2103&repo=github-readme-stats)](https://github.com/vaibhavd2103/github-readme-stats) -->
-
-
-<p align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=vaibhavd2103&show_icons=true&theme=synthwave"/>
-</p>
-<!-- ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavd2103&show_icons=true&theme=synthwave)        -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavd2103&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Vaibhav" /></p>
+- 🔭 &nbsp;I'm currently pursuing my **M.Sc. in Computer Science** at the University of Stuttgart.
+- 💻 &nbsp;I'm a **full-stack developer** for both web and native applications (React • TypeScript • Node.js).
+- 🤖 &nbsp;I build with **LLMs / multi-agent systems** and **cloud-native backends** (Azure, FastAPI, Docker/K8s).
+- 👯 &nbsp;I'm looking to collaborate on bringing ideas to reality.
+- 📫 &nbsp;Reach me: **dangevaibhav21@gmail.com**
+- ⚡ &nbsp;Fun fact: I can write code.
 
 <hr/>
 
-<h3 align="center">Connect with me over at</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
-<p align="center"> 
-<a href="https://twitter.com/vaibhavd2103" target="blank">
-    <img align="center" src="svgs/twitter.svg" alt="vaibhavd2103" height="30" width="40" />
-</a>
-<a href="https://instagram.com/vaibhavd2103" target="blank">
-    <img align="center" src="svgs/instagram.svg" alt="vaibhavd2103" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/vaibhav-dange-2103" target="blank">
-    <img align="center" src="svgs/linkedin.svg" alt="vaibhavdange" height="30" width="40" />
-</a>
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark" alt="languages" />
+</p>
+
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,redux,angular&theme=dark" alt="frontend" />
+</p>
+
+<p align="center"><b>Backend &amp; Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,graphql,prisma,mongodb,postgres,mysql&theme=dark" alt="backend and databases" />
+</p>
+
+<p align="center"><b>Cloud &amp; DevOps</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,docker,kubernetes&theme=dark" alt="cloud and devops" />
+</p>
+
+<p align="center"><b>Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,figma,postman&theme=dark" alt="tools" />
 </p>
 
 <hr/>
 
-<h3 align="center">Languages and tools</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-<a href="https://www.mongodb.com/cloud/atlas/lp/try2-in?utm_source=google&utm_campaign=gs_apac_india_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624347" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="react" width="40" height="40"/> 
-</a>
-<a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="react" width="40" height="40"/> 
-</a>
-<a href="https://reactnative.dev/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a>
-<a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a>
-<a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="react" width="40" height="40"/> 
-</a>
-<a href="https://www.python.org/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/> 
-</a>
-<a href="https://www.javascript.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="react" width="40" height="40"/> 
-</a>
-<a href="https://html.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="react" width="40" height="40"/> 
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="react" width="40" height="40"/> 
-</a>
-<a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a>
-<a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a>
-<a href="https://postman.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-</a>
-<a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-</a>
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="django" width="40" height="40"/> 
-</a>
-<a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavd2103&show_icons=true&theme=synthwave" alt="Vaibhav's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavd2103&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Top languages" />
 </p>
 
+<hr/>
 
+<h3 align="center">🤝 Connect with me</h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/vaibhav-dange-2103" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/vaibhavd2103" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/vaibhavd2103" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:dangevaibhav21@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
